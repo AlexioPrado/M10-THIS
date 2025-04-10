@@ -59,4 +59,4 @@ const display = {
 // Instead of passing "Clicked!", change handleClick() to use this.text, and assign this.text = "Clicked!"; inside the event function. Also try the same with an arrow function.
 
 // Q: What does this.text refer to in each case? Why does the arrow function behave differently?
-// refers to "Clicked!". for me, the arrow function doesnt behave differently
+// refers to "Clicked!" and undefined. The arrow functions is not undefined.
